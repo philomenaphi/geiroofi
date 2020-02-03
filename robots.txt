@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooshohceeg.devbv.com/sitemap.xml
